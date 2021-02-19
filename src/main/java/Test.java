@@ -3,5 +3,6 @@ public class Test {
         System.out.println("nihao");
         System.out.println("second commit");
         System.out.println("master");
+        System.out.println("github");
     }
 }
